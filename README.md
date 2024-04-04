@@ -1,7 +1,7 @@
  
 
 
-> Open this page at [https://novawithapizza.github.io/neural-networks/](https://novawithapizza.github.io/neural-networks/)
+> Open the original repo [here](https://github.com/novawithapizza/neural-networks/)
 
 ## Use as Extension
 
